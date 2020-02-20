@@ -16,7 +16,7 @@ git config --global user.name "my-user-name"
 git config --global user.email "email@example.com"
 ```
 
-3b. Set up an ssh-key by following [Github's instructions](https://help.github.com/en/enterprise/2.15/user/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent). Be sure to [follow the last step](https://help.github.com/en/enterprise/2.15/user/articles/adding-a-new-ssh-key-to-your-github-account) and add the key to your Github account.
+3. Set up an ssh-key by following [Github's instructions](https://help.github.com/en/enterprise/2.15/user/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent). Be sure to [follow the last step](https://help.github.com/en/enterprise/2.15/user/articles/adding-a-new-ssh-key-to-your-github-account) and add the key to your Github account.
 
 
 ## Forking a Repository
