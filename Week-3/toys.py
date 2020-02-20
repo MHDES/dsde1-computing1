@@ -24,7 +24,8 @@ def inc_return(a):
 # the two input numbers together
 # and returns the sum
 def sum(a, b):
-    print (a + b)
+    addition = a+b
+    print (addition)
     #return a + b
 
 
