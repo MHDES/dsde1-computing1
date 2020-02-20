@@ -17,14 +17,15 @@ def inc(a):
 # to the input and returns the result
 def inc_return(a):
     a = a+1
-    return print(a) # hint this is incomplete
+    return a # hint this is incomplete - note still not right
 
 
 # write a function that adds
 # the two input numbers together
 # and returns the sum
 def sum(a, b):
-    return
+    print (a + b)
+    return a + b
 
 
 # write a function that takes two
