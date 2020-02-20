@@ -25,7 +25,7 @@ def inc_return(a):
 # and returns the sum
 def sum(a, b):
     print (a + b)
-    return a + b
+    #return a + b
 
 
 # write a function that takes two
