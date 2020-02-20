@@ -9,13 +9,15 @@ with functions.
 # write a function that adds 1
 # to the input and prints the result
 def inc(a):
+    a=a+1
     print(a)
 
 
 # write a function that adds 1
 # to the input and returns the result
 def inc_return(a):
-    return # hint this is incomplete
+    a = a+1
+    return  # hint this is incomplete
 
 
 # write a function that adds
