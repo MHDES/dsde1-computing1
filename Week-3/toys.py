@@ -58,5 +58,5 @@ def string_repeat(phrase, repeat):
     # in order to concatenate them
     return
 
-#inc(5)
+sum_inc(5,4)
 
