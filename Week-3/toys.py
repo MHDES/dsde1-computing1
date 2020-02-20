@@ -37,7 +37,7 @@ def sum_inc(a, b):
     c= sum(a,b)
     d=inc_return(c)
     print(d)
-    return d
+    #return d
 
 
 # write a function that returns a 
