@@ -23,8 +23,8 @@ def inc_return(a):
 # write a function that adds
 # the two input numbers together
 # and returns the sum
-def sum(a, b):
-    addition = a+b
+def sum(a,b):
+    addition=a+b
     print (addition)
     #return a + b
 
