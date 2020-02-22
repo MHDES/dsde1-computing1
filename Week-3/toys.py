@@ -36,7 +36,7 @@ def sum(a,b):
 def sum_inc(a, b):
     c= sum(a,b)
     d=inc_return(c)
-    #print(d)
+    print(d)
     return d
 
 
@@ -58,5 +58,14 @@ def string_repeat(phrase, repeat):
     # in order to concatenate them
     return
 
-sum_inc(5,4)
+y= sum_inc(5,4)
+print(y)
+inc(4)
 
+def main():
+    user_input=input('enter a number ')
+    user_input2=input('enter a number ')
+    sum_inc(int(user_input),int(user_input2))
+
+if __name__== '__main__':
+    main()    
